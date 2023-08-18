@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Use twitter to get to me</h2>
+<h2 align="center">Use twitter to get to me</h2>
 
 ###
 
